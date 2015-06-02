@@ -1,7 +1,7 @@
 {
   "name": "parse-year",
   "main": "index.js",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Parse a year into its full number value",
   "license": "MIT",
   "repository": "bendrucker/parse-year",
