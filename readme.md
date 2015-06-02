@@ -2,7 +2,6 @@
 
 > Parse a year into its full number value
 
-
 ## Install
 
 ```
