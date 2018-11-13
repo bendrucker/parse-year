@@ -1,4 +1,4 @@
-# parse-year [![Build Status](https://travis-ci.org/bendrucker/parse-year.svg?branch=master)](https://travis-ci.org/bendrucker/parse-year)
+# parse-year [![Build Status](https://travis-ci.org/bendrucker/parse-year.svg?branch=master)](https://travis-ci.org/bendrucker/parse-year) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/parse-year.svg)](https://greenkeeper.io/)
 
 > Parse a year into its full number value
 
